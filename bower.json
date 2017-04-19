@@ -1,0 +1,21 @@
+{
+  "name": "kmlzd",
+  "description": "kmlzdweb",
+  "main": "",
+  "keywords": [
+    "spa"
+  ],
+  "authors": [
+    "kmlaoxin"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
